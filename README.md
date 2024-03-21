@@ -18,3 +18,7 @@ each customer.
 Treasure Island
 
 This is a naive treasure hunt game.
+
+Rock Paper Scissors
+
+In this game the user plays with the computer a rock, paper, scissors game
